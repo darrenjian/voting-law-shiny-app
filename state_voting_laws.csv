@@ -1,0 +1,52 @@
+﻿state,population,vac_pop,turnout,pct_turnout,all_mail_voting,early_voting,same_day_reg,strict_ID,photo_ID,felon_restrict,ID_fill,reg_fill,felon_fill,EV_fill,ID_law,registration_law,felon_voting_law,,early_voting_law
+Alabama,5030053,3716000,2247000,60.5,0,1,0,1,1,1,0,1,0,1,Strict ID,"Registration prior to election, online registration allowed ",May lose vote permanently,,In-person early voting
+Alaska,736081,516000,330000,63.8,0,1,1,0,0,1,2,2,1,2,"ID requested, photo not required",Same day voter registration,Vote restored after prison and parole,,No-excuse absentee voting
+Arizona,7158923,5075000,3649000,71.9,0,1,0,1,0,1,0,1,0,2,Strict ID,"Registration prior to election, online registration allowed ",May lose vote permanently,,No-excuse absentee voting
+Arkansas,3013756,2195000,1186000,54,0,1,0,1,1,1,0,0,1,1,Strict ID,"Registration prior to election, online registration not allowed",Vote restored after prison and parole,,In-person early voting
+California,39576757,25946000,16893000,65.1,1,1,1,0,0,1,3,2,2,3,No document required to vote,Same day voter registration,Vote restored after prison,,All-mail voting with early voting options
+Colorado,5782171,4200000,2837000,67.6,1,1,1,0,0,1,2,2,2,3,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,All-mail voting with early voting options
+Connecticut,3608298,2524000,1681000,66.6,0,0,1,0,0,1,2,2,2,0,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,Early voting not allowed
+Delaware,990837,722000,489000,67.7,0,0,0,0,0,1,2,1,0,0,"ID requested, photo not required","Registration prior to election, online registration allowed ",May lose vote permanently,,Early voting not allowed
+District of Columbia,689545,534000,448000,84,0,1,1,0,0,0,3,2,3,2,No document required to vote,Same day voter registration,"Unrestricted, may vote from prison",,No-excuse absentee voting
+Florida,21570527,15645000,9720000,62.1,0,1,0,0,1,1,1,1,0,2,Photo ID requested,"Registration prior to election, online registration allowed ",May lose vote permanently,,No-excuse absentee voting
+Georgia,10725274,7400000,4888000,66.1,0,1,0,1,1,1,0,1,1,2,Strict ID,"Registration prior to election, online registration allowed ",Vote restored after prison and parole,,No-excuse absentee voting
+Hawaii,1460137,980000,630000,64.3,1,1,1,0,0,1,2,2,2,3,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,All-mail voting with early voting options
+Idaho,1841377,1299000,843000,64.9,0,1,1,0,1,1,1,2,1,2,Photo ID requested,Same day voter registration,Vote restored after prison and parole,,No-excuse absentee voting
+Illinois,12822739,8860000,6058000,68.4,0,1,1,0,0,1,3,2,2,2,No document required to vote,Same day voter registration,Vote restored after prison,,No-excuse absentee voting
+Indiana,6790280,4921000,3002000,61,0,1,0,1,1,1,0,1,2,1,Strict ID,"Registration prior to election, online registration allowed ",Vote restored after prison,,In-person early voting
+Iowa,3192406,2293000,1618000,70.5,0,1,1,0,0,1,2,2,0,2,"ID requested, photo not required",Same day voter registration,May lose vote permanently,,No-excuse absentee voting
+Kansas,2940865,1975000,1297000,65.7,0,1,0,1,1,1,0,1,1,2,Strict ID,"Registration prior to election, online registration allowed ",Vote restored after prison and parole,,No-excuse absentee voting
+Kentucky,4509342,3227000,2210000,68.5,0,1,0,0,0,1,2,1,0,1,"ID requested, photo not required","Registration prior to election, online registration allowed ",May lose vote permanently,,In-person early voting
+Louisiana,4661468,3299000,2041000,61.9,0,1,0,0,1,1,1,1,1,1,Photo ID requested,"Registration prior to election, online registration allowed ",Vote restored after prison and parole,,In-person early voting
+Maine,1363582,1075000,766000,71.3,0,1,1,0,0,0,3,2,3,2,No document required to vote,Same day voter registration,"Unrestricted, may vote from prison",,No-excuse absentee voting
+Maryland,6185278,4303000,3166000,73.6,0,1,1,0,0,1,3,2,2,2,No document required to vote,Same day voter registration,Vote restored after prison,,No-excuse absentee voting
+Massachusetts,7033469,4897000,3249000,66.3,0,1,0,0,0,1,3,1,2,1,No document required to vote,"Registration prior to election, online registration allowed ",Vote restored after prison,,In-person early voting
+Michigan,10084442,7467000,4994000,66.9,0,1,1,0,1,1,1,2,2,2,Photo ID requested,Same day voter registration,Vote restored after prison,,No-excuse absentee voting
+Minnesota,5709752,4142000,3225000,77.9,0,1,1,0,0,1,3,2,1,2,No document required to vote,Same day voter registration,Vote restored after prison and parole,,No-excuse absentee voting
+Mississippi,2963914,2177000,1531000,70.3,0,0,0,1,1,1,0,0,0,0,Strict ID,"Registration prior to election, online registration not allowed",May lose vote permanently,,Early voting not allowed
+Missouri,6160281,4475000,2990000,66.8,0,0,0,0,0,1,2,1,1,0,"ID requested, photo not required","Registration prior to election, online registration allowed ",Vote restored after prison and parole,,Early voting not allowed
+Montana,1085407,827000,607000,73.5,0,1,1,0,1,1,2,2,2,2,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,No-excuse absentee voting
+Nebraska,1963333,1369000,892000,65.2,0,1,0,0,0,1,3,1,0,2,No document required to vote,"Registration prior to election, online registration allowed ",May lose vote permanently,,No-excuse absentee voting
+Nevada,3108462,2198000,1351000,61.5,0,1,1,0,0,1,3,2,2,2,No document required to vote,Same day voter registration,Vote restored after prison,,No-excuse absentee voting
+New Hampshire,1379089,1077000,797000,74,0,0,1,0,0,1,2,2,2,0,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,Early voting not allowed
+New Jersey,9294493,5921000,4638000,78.3,0,1,0,0,0,1,3,1,2,2,No document required to vote,"Registration prior to election, online registration allowed ",Vote restored after prison,,No-excuse absentee voting
+New Mexico,2120220,1498000,938000,62.6,0,1,1,0,0,1,3,2,1,2,No document required to vote,Same day voter registration,Vote restored after prison and parole,,No-excuse absentee voting
+New York,20215751,13298000,8609000,64.7,0,1,0,0,0,1,3,1,2,1,No document required to vote,"Registration prior to election, online registration allowed ",Vote restored after prison,,In-person early voting
+North Carolina,10453948,7391000,4780000,64.7,0,1,1,0,0,1,3,2,1,2,No document required to vote,Same day voter registration,Vote restored after prison and parole,,No-excuse absentee voting
+North Dakota,779702,556000,373000,67.1,0,1,0,1,0,1,0,3,2,2,Strict ID,Registration not needed to vote,Vote restored after prison,,No-excuse absentee voting
+Ohio,11808848,8740000,6128000,70.1,0,1,0,1,0,1,0,1,2,2,Strict ID,"Registration prior to election, online registration allowed ",Vote restored after prison,,No-excuse absentee voting
+Oklahoma,3963516,2800000,1631000,58.3,0,1,0,0,0,1,2,0,1,2,"ID requested, photo not required","Registration prior to election, online registration not allowed",Vote restored after prison and parole,,No-excuse absentee voting
+Oregon,4241500,3242000,2402000,74.1,1,1,0,0,0,1,3,1,2,3,No document required to vote,"Registration prior to election, online registration allowed ",Vote restored after prison,,All-mail voting with early voting options
+Pennsylvania,13011844,9621000,6756000,70.2,0,1,0,0,0,1,3,1,2,2,No document required to vote,"Registration prior to election, online registration allowed ",Vote restored after prison,,No-excuse absentee voting
+Rhode Island,1098163,776000,515000,66.3,0,1,0,0,1,1,1,1,2,2,Photo ID requested,"Registration prior to election, online registration allowed ",Vote restored after prison,,No-excuse absentee voting
+South Carolina,5124712,3878000,2459000,63.4,0,0,0,0,1,1,1,1,1,0,Photo ID requested,"Registration prior to election, online registration allowed ",Vote restored after prison and parole,,Early voting not allowed
+South Dakota,887770,649000,380000,58.5,0,1,0,0,1,1,1,0,1,2,Photo ID requested,"Registration prior to election, online registration not allowed",Vote restored after prison and parole,,No-excuse absentee voting
+Tennessee,6916897,5038000,3346000,66.4,0,1,0,1,1,1,0,1,0,1,Strict ID,"Registration prior to election, online registration allowed ",May lose vote permanently,,In-person early voting
+Texas,29183290,18581000,11874000,63.9,0,1,0,0,1,1,1,0,1,1,Photo ID requested,"Registration prior to election, online registration not allowed",Vote restored after prison and parole,,In-person early voting
+Utah,3275252,2178000,1386000,63.6,1,1,1,0,0,1,2,2,2,3,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,All-mail voting with early voting options
+Vermont,643503,500000,342000,68.4,0,1,1,0,0,0,3,2,3,2,No document required to vote,Same day voter registration,"Unrestricted, may vote from prison",,No-excuse absentee voting
+Virginia,8654542,5974000,4275000,71.5,0,1,0,0,0,1,2,1,2,2,"ID requested, photo not required","Registration prior to election, online registration allowed ",Vote restored after prison,,No-excuse absentee voting
+Washington,7715946,5389000,3854000,71.5,1,1,1,0,0,1,2,2,2,3,"ID requested, photo not required",Same day voter registration,Vote restored after prison,,All-mail voting with early voting options
+West Virginia,1795045,1379000,773000,56.1,0,1,0,0,0,1,2,1,1,1,"ID requested, photo not required","Registration prior to election, online registration allowed ",Vote restored after prison and parole,,In-person early voting
+Wisconsin,5897473,4421000,3253000,73.6,0,1,1,1,0,1,0,2,1,2,Strict ID,Same day voter registration,Vote restored after prison and parole,,No-excuse absentee voting
+Wyoming,577719,427000,280000,65.5,0,1,1,1,0,1,0,2,0,2,Strict ID,Same day voter registration,May lose vote permanently,,No-excuse absentee voting
